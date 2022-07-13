@@ -1,6 +1,3 @@
 Instructions for deploying this site to the server
 --------------------------------------------------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In iaculis massa elit, ut ullamcorper turpis porta sit amet. Nam tincidunt eros augue, sed aliquet tortor interdum at. Integer a felis eget risus consectetur imperdiet. Maecenas viverra et leo eu ultricies. Aenean at consequat nulla, non fringilla velit. Suspendisse potenti. Cras vel tellus rutrum tortor vehicula rutrum. Integer accumsan magna odio, vel interdum diam mollis ultrices. Sed luctus congue auctor. Nam sit amet ipsum tortor. Integer ligula ante, maximus non feugiat et, fringilla ac tellus. Cras sit amet ligula auctor, facilisis urna vel, finibus eros. Cras tincidunt diam ut odio lacinia pretium sed sit amet nisl. Nullam quam orci, maximus a tristique vitae, lacinia nec mauris. Nullam a porta elit.
-
-Installation on IIS
--------------------
